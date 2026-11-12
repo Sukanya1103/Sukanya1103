@@ -39,9 +39,9 @@ I build scalable web applications with Java, Spring Boot, and React/Next.js. I e
 
 | Project | Description | Tech |
 |---|---|---|
-| [**LeadFlow CRM**](https://github.com/YOUR_USERNAME/REPO_NAME) | CRM platform for lead management, sales tracking, customer interactions, and team assignment. Includes Kanban sales pipelines, follow-up reminders, JWT-based role access, and dashboard analytics. *(Ongoing)* | React.js, Tailwind CSS, Node.js, Express.js, MongoDB |
-| [**EmployeeX**](https://github.com/YOUR_USERNAME/REPO_NAME) | Role-based employee attendance management portal covering registration, attendance, leave, and salary. Features JWT authentication, Spring Security, and an AI assistant with backend-enforced role-based data access for Admin, HR, Manager, and Employee. *(Ongoing)* | Next.js, TypeScript, Spring Boot, Java, MongoDB Atlas |
-| [**Cab Booking System**](https://github.com/YOUR_USERNAME/REPO_NAME) | Web application for booking cabs with driver selection functionality. | MERN Stack |
+| [**LeadFlow CRM**](https://github.com/Sukanya1103/leadflow-crm) | CRM platform for lead management, sales tracking, customer interactions, and team assignment. Includes Kanban sales pipelines, follow-up reminders, JWT-based role access, and dashboard analytics. *(Ongoing)* | React.js, Tailwind CSS, Node.js, Express.js, MongoDB |
+| [**EmployeeX**](https://github.com/Sukanya1103/eams-chatbot) | Role-based employee attendance management portal covering registration, attendance, leave, and salary. Features JWT authentication, Spring Security, and an AI assistant with backend-enforced role-based data access for Admin, HR, Manager, and Employee. *(Ongoing)* | Next.js, TypeScript, Spring Boot, Java, MongoDB Atlas |
+| [**Cab Booking System**](https://github.com/Sukanya1103/quickRide_cabBooking) | Web application for booking cabs with driver selection functionality. | MERN Stack |
 
 ---
 
@@ -64,7 +64,7 @@ I build scalable web applications with Java, Spring Boot, and React/Next.js. I e
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukanya-rana-719832345)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukanyathakur1103@gmail.com)
 
 ⭐ Always learning, always building.
