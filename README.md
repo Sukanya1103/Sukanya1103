@@ -59,6 +59,7 @@ I build scalable web applications with Java, Spring Boot, and React/Next.js. I e
 
 <p align="center">
   <img height="170" src="https://raw.githubusercontent.com/Sukanya1103/Sukanya1103/main/profile-summary-card-output/default/3-stats.png" alt="GitHub stats" />
+  <img height="170" src="https://raw.githubusercontent.com/Sukanya1103/Sukanya1103/main/profile-summary-card-output/default/2-most-commit-language.png" alt="Top languages" />
 </p>
 
 ---
