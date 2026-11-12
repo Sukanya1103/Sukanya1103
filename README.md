@@ -39,9 +39,9 @@ I build scalable web applications with Java, Spring Boot, and React/Next.js. I e
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Project Management System**](https://github.com/YOUR_USERNAME/REPO_NAME) | Manage projects, teams, and milestones | Next.js, Redux Toolkit |
-| [**Employee Attendance Management System (EAMS)**](https://github.com/YOUR_USERNAME/REPO_NAME) | Employee management and attendance tracking | React/Next.js, Spring Boot |
-| [**Cab Booking System**](https://github.com/YOUR_USERNAME/REPO_NAME) | Book cabs with driver selection | MERN Stack |
+| [**LeadFlow CRM**](https://github.com/YOUR_USERNAME/REPO_NAME) | CRM platform for lead management, sales tracking, customer interactions, and team assignment. Includes Kanban sales pipelines, follow-up reminders, JWT-based role access, and dashboard analytics. *(Ongoing)* | React.js, Tailwind CSS, Node.js, Express.js, MongoDB |
+| [**EmployeeX**](https://github.com/YOUR_USERNAME/REPO_NAME) | Role-based employee attendance management portal covering registration, attendance, leave, and salary. Features JWT authentication, Spring Security, and an AI assistant with backend-enforced role-based data access for Admin, HR, Manager, and Employee. *(Ongoing)* | Next.js, TypeScript, Spring Boot, Java, MongoDB Atlas |
+| [**Cab Booking System**](https://github.com/YOUR_USERNAME/REPO_NAME) | Web application for booking cabs with driver selection functionality. | MERN Stack |
 
 ---
 
