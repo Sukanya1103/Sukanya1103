@@ -50,6 +50,8 @@ I build scalable web applications with Java, Spring Boot, and React/Next.js. I e
 - Java Full Stack Development — DUCAT India
 - Spring Boot — DUCAT India
 - Oracle Agentic AI Foundations Associate
+- Summer Internship Completion Certificate (IRDP) – MetaUpSpace LLP
+- Software Engineer Internship – MetaUpSpace LLP
 
 ---
 
