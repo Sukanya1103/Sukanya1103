@@ -58,8 +58,9 @@ I build scalable web applications with Java, Spring Boot, and React/Next.js. I e
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=Sukanya1103&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://raw.githubusercontent.com/Sukanya1103/Sukanya1103/main/profile-summary-card-output/default/3-stats.png" alt="GitHub stats" />
 </p>
+
 ---
 
 ## 📫 Let's Connect
