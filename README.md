@@ -55,15 +55,6 @@ I build scalable web applications with Java, Spring Boot, and React/Next.js. I e
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/Sukanya1103/Sukanya1103/main/profile-summary-card-output/default/3-stats.png" alt="GitHub stats" />
-  <img height="170" src="https://raw.githubusercontent.com/Sukanya1103/Sukanya1103/main/profile-summary-card-output/default/2-most-commit-language.png" alt="Top languages" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukanya-rana-719832345)
