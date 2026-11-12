@@ -10,24 +10,31 @@ I build scalable web applications with Java, Spring Boot, and React/Next.js. I e
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 - **Languages:** Java, JavaScript, TypeScript, SQL
-- **Frontend:** HTML, CSS, React.js, Next.js, Tailwind CSS
-- **Backend:** Core Java, Spring Boot, Node.js, Express.js, REST APIs, JDBC
+- **Frontend:** HTML, CSS, React.js, Next.js, Tailwind CSS, Zustand, TanStack Query
+- **Backend:** Core Java, Spring Boot, Lombok, Node.js, Express.js, REST APIs, JDBC
 - **Databases:** MySQL, Oracle SQL, MongoDB
+- **Tools:** Git, GitHub, Maven, VS Code, IntelliJ IDEA
+
 ---
 
 ## 💼 Experience
@@ -42,8 +49,8 @@ I build scalable web applications with Java, Spring Boot, and React/Next.js. I e
 
 | Project | Description | Tech |
 |---|---|---|
-| [**LeadFlow CRM**](https://github.com/Sukanya1103/leadflow-crm) | CRM platform for lead management, sales tracking, customer interactions, and team assignment. Includes Kanban sales pipelines, follow-up reminders, JWT-based role access, and dashboard analytics. *(Ongoing)* | React.js, Tailwind CSS, Node.js, Express.js, MongoDB |
-| [**EmployeeX**](https://github.com/Sukanya1103/eams-chatbot) | Role-based employee attendance management portal covering registration, attendance, leave, and salary. Features JWT authentication, Spring Security, and an AI assistant with backend-enforced role-based data access for Admin, HR, Manager, and Employee. *(Ongoing)* | Next.js, TypeScript, Spring Boot, Java, MongoDB Atlas |
+| [**LeadFlow CRM**](https://github.com/Sukanya1103/leadflow-crm) | CRM platform for lead management, sales tracking, customer interactions, and team assignment. Includes Kanban sales pipelines, follow-up reminders, JWT-based role access, and dashboard analytics. *(Ongoing)* | React.js, Tailwind CSS, Zustand, TanStack Query, Node.js, Express.js, MongoDB |
+| [**EmployeeX**](https://github.com/Sukanya1103/eams-chatbot) | Role-based employee attendance management portal covering registration, attendance, leave, and salary. Features JWT authentication, Spring Security, and an AI assistant with backend-enforced role-based data access for Admin, HR, Manager, and Employee. *(Ongoing)* | Next.js, TypeScript, Zustand, TanStack Query, Spring Boot, Java, Maven, Lombok, MongoDB Atlas |
 | [**Cab Booking System**](https://github.com/Sukanya1103/quickRide_cabBooking) | Web application for booking cabs with driver selection functionality. | MERN Stack |
 
 ---
